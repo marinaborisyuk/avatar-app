@@ -1,0 +1,14 @@
+.refresh {
+  width: 240px;
+  height: 40px;
+  background: var(--color-green);
+  border-radius: 3px;
+  border: none;
+  color: var(--color-text);
+  font-size: 20px;
+}
+
+.refresh:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
